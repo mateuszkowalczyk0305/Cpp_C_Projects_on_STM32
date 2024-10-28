@@ -37,10 +37,4 @@ Ensure you have:
 1. Edit the device descriptor:
    - Navigate to: `USB_DEVICE -> App -> usbd_custom_hid_if.c`
    - In the `CUSTOM_HID_ReportDesc_FS` function, insert the descriptor for your device.
-2. Optionally, implement data transmission at the bottom of the file as shown:
-
-   ```cpp
-   // Example of data transmission function
-   uint8_t sendData(uint8_t *data, uint16_t length) {
-       return USBD_CUSTOM_HID_SendReport(&hUsbDeviceFS, data, length);
-   }
+2. All of that code you cann see in .pdf file

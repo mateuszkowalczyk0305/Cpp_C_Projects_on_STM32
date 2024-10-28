@@ -1,0 +1,8 @@
+../Core/Src/motor_lib.c:19:6:Motor_Init	1
+../Core/Src/motor_lib.c:40:6:Motor_Enable	1
+../Core/Src/motor_lib.c:45:6:Motor_Stop	1
+../Core/Src/motor_lib.c:51:6:Motor_DirectionSelect	4
+../Core/Src/motor_lib.c:76:6:Motor_SetFreq	7
+../Core/Src/motor_lib.c:112:6:Motor_SetSpeedRPM	1
+../Core/Src/motor_lib.c:123:6:Motor_Restart	2
+../Core/Src/motor_lib.c:138:9:Motor_Go	5

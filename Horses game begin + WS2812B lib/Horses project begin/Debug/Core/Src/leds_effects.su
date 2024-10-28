@@ -1,0 +1,9 @@
+../Core/Src/leds_effects.c:22:6:HAL_TIM_PWM_PulseFinishedCallback	16	static
+../Core/Src/leds_effects.c:32:6:Set_LED	24	static
+../Core/Src/leds_effects.c:43:6:Set_Brightness	16	static
+../Core/Src/leds_effects.c:66:6:WS2812_Send	32	static
+../Core/Src/leds_effects.c:106:6:Reset_LEDs	8	static
+../Core/Src/leds_effects.c:113:6:Set_WS2812_Button	32	static
+../Core/Src/leds_effects.c:126:6:Set_WS2812_StartAnimation	16	static
+../Core/Src/leds_effects.c:137:6:Set_WS2812_IDLEAnimation	8	static
+../Core/Src/leds_effects.c:157:6:Set_WS2812_ResetAnimation	16	static
