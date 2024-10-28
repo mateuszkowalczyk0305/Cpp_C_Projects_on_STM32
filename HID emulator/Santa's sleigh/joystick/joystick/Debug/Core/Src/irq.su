@@ -1,0 +1,1 @@
+../Core/Src/irq.cpp:4:6:void HAL_GPIO_EXTI_Callback(uint16_t)	16	static

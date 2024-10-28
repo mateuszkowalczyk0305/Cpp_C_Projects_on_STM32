@@ -1,0 +1,6 @@
+../Core/Src/main.cpp:110:5:int main()	1
+../Core/Src/main.cpp:165:6:void SystemClock_Config()	3
+../Core/Src/main.cpp:208:10:X_Ranges getRange_X(double)	17
+../Core/Src/main.cpp:232:10:Y_Ranges getRange_Y(double)	8
+../Core/Src/main.cpp:246:6:void Send_KeyboardButton(double, double, bool, KeyboardState*)	23
+../Core/Src/main.cpp:435:6:void Error_Handler()	1

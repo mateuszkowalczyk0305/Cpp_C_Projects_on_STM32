@@ -1,0 +1,3 @@
+../Core/Src/getters.cpp:24:8:double Get_X()	40	static
+../Core/Src/getters.cpp:47:8:double Get_Y()	40	static
+../Core/Src/getters.cpp:69:6:bool Get_Limiter()	4	static
