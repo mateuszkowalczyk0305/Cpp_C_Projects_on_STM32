@@ -1,0 +1,8 @@
+../Core/Src/stepper_motor.cpp:3:1:StepperMotor::StepperMotor(TIM_HandleTypeDef*, GPIO_TypeDef*, uint16_t, GPIO_TypeDef*, uint16_t, GPIO_TypeDef*, uint16_t, GPIO_TypeDef*, uint16_t)	1
+../Core/Src/stepper_motor.cpp:26:6:bool StepperMotor::setPosition(uint32_t, Direction)	2
+../Core/Src/stepper_motor.cpp:42:6:bool StepperMotor::setPositionDeg(uint32_t, Direction)	2
+../Core/Src/stepper_motor.cpp:59:6:void StepperMotor::motorGo(Direction)	1
+../Core/Src/stepper_motor.cpp:66:6:void StepperMotor::motorStop()	1
+../Core/Src/stepper_motor.cpp:72:9:uint8_t StepperMotor::setCorrectStep(Direction)	5
+../Core/Src/stepper_motor.cpp:113:5:int StepperMotor::selectPin(Direction)	7
+../Core/Src/stepper_motor.cpp:144:6:void StepperMotor::calculatePositionDeg()	1

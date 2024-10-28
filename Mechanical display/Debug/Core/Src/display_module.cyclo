@@ -1,0 +1,7 @@
+../Core/Src/display_module.cpp:3:1:DisplayModule::DisplayModule(TIM_HandleTypeDef*, uint8_t, GPIO_TypeDef*, uint16_t, GPIO_TypeDef*, uint16_t, GPIO_TypeDef*, uint16_t, GPIO_TypeDef*, uint16_t, GPIO_TypeDef*, uint16_t)	1
+../Core/Src/display_module.cpp:24:6:void DisplayModule::StateMachine()	11
+../Core/Src/display_module.cpp:67:6:bool DisplayModule::reset_DisplayModule()	2
+../Core/Src/display_module.cpp:90:6:bool DisplayModule::set_DisplaySegment(uint8_t)	2
+../Core/Src/display_module.cpp:101:6:bool DisplayModule::set_NextSegment()	4
+../Core/Src/display_module.cpp:135:6:bool DisplayModule::set_PreviousSegment()	4
+../Core/Src/display_module.cpp:167:6:void DisplayModule::is_hallDetected()	2
