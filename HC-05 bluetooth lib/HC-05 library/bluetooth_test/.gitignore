@@ -1,15 +1,25 @@
-# Ignore build artifacts and debug files
-Debug/
-*.launch
-*.ld
+# Ignore all files by default
+*
 
-# Ignore STM32CubeMX and IDE project files
-*.ioc
-.project
+# Allow specific directories and files
+!Core/Inc/
+!Core/Inc/*.h
+!Core/Inc/*.hpp
+!Core/Src/
+!Core/Src/*.c
+!Core/Src/*.cpp
+
+# Ignore build, IDE, and configuration files
+Debug/
+Drivers/
+.settings/
 .cproject
 .mxproject
-
-# Ignore output binary files
+.project
+*.launch
+*.ld
+*.ioc
 *.elf
 *.bin
 *.hex
+
