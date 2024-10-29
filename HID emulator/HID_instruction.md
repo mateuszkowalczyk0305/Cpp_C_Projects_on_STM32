@@ -7,7 +7,7 @@ This guide walks you through configuring a custom HID device, recognized as a ke
 Ensure you have:
 - STM32CubeMX,
 - Blackpill microcontroller with USB as HID funstions,
-- In `joystick` file you can see decriptors for keyboard and functions to sending data. You can download the project to see if that's working on your computer.
+- In `Summary` you can see decriptors for keyboard and functions to sending data. You can download `joystick` project to see if that's working on your computer.
 
 ---
 
