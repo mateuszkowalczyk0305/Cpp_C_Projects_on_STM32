@@ -2,7 +2,7 @@
 
 ## Purpose:
 
-The library is designed to enable communication between multiple wireless modules as part of an interactive game. 
+The library is designed to enable communication between multiple wireless (via bluetooth 2.0) modules as part of an interactive game. 
 If one of the modules loses connection, the master module will automatically reconnect with a new module.
 
 ### Master Module Tasks:
