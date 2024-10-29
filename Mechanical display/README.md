@@ -1,4 +1,4 @@
-# Undefined Number of Modules:
+# Mechanical Display Project Composed of an Undefined Number of Modules:
 - Instructions for adding modules are available in the `Mechanical_Display_Datasheet.pdf` file.
 - Each module contains a stepper motor and a Hall sensor.
 - The Hall sensor is used to detect the zero position of every display's module.
