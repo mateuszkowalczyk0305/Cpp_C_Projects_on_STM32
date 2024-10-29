@@ -1,0 +1,15 @@
+# Ignore build artifacts and debug files
+Debug/
+*.launch
+*.ld
+
+# Ignore STM32CubeMX and IDE project files
+*.ioc
+.project
+.cproject
+.mxproject
+
+# Ignore output binary files
+*.elf
+*.bin
+*.hex
